@@ -1,6 +1,6 @@
 🧬 Malaria Cell Image Classifier
 
-project Link for Interactive graphs inside [Link Text](file:///C:/Users/Aman%20Yadav/Downloads/Image_classifier.html)
+project Link for Interactive graphs inside [code Link](file:///C:/Users/Aman%20Yadav/Downloads/Image_classifier.html)
 
 A deep learning project using Convolutional Neural Networks (CNNs) to classify red blood cell (RBC) images as infected (parasitized) or uninfected.
 Trained on 2000+ microscopic blood smear images from a publicly available Kaggle dataset, this model demonstrates the application of AI in biomedical image analysis and malaria detection.
