@@ -5,6 +5,8 @@
 A deep learning project using Convolutional Neural Networks (CNNs) to classify red blood cell (RBC) images as infected (parasitized) or uninfected.
 Trained on 2000+ microscopic blood smear images from a publicly available Kaggle dataset, this model demonstrates the application of AI in biomedical image analysis and malaria detection.
 
+
+
 🚀 Features
 
 Classifies RBCs into Infected or Uninfected.
@@ -17,11 +19,15 @@ Includes data preprocessing, training, and evaluation pipeline.
 
 Demonstrates the use of CNNs in medical image classification.
 
+
+
 📂 Dataset
 
 Source: Kaggle - Malaria Cell Images Dataset
 
 Contains labeled microscopic images of parasitized and uninfected cells.
+
+
 
 🏗️ Model Architecture
 
@@ -35,22 +41,8 @@ Dropout for regularization
 
 Binary classification output (Infected vs. Uninfected)
 
-⚙️ Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/your-username/malaria-rbc-classifier.git
-cd malaria-rbc-classifier
 
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the notebook or script to train/predict:
-
-jupyter notebook Image_classifier.ipynb
 
 📊 Results
 
